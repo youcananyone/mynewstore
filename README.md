@@ -1,0 +1,2 @@
+# mynewstore
+just a test
